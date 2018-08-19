@@ -1,7 +1,7 @@
 {
-  "name": "roslib",
+  "name": "roslib-fork",
   "homepage": "https://www.robotwebtools.org",
-  "description": "The standard ROS Javascript Library",
+  "description": "Standard ROS Javascript Library with socket.io updated.",
   "version": "0.20.0",
   "license": "BSD-2-Clause",
   "main": "./src/RosLibNode.js",
