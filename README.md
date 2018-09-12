@@ -1,5 +1,9 @@
-roslibjs [![Build Status](https://api.travis-ci.org/RobotWebTools/roslibjs.png)](https://travis-ci.org/RobotWebTools/roslibjs)
+roslibjs fork [![Build Status](https://api.travis-ci.org/RobotWebTools/roslibjs.png)](https://travis-ci.org/RobotWebTools/roslibjs)
 ========
+
+
+### NOTE: This is a fork of roslibjs, which is identical other than upgrading packages that were causing severe vulnerability warnings triggered by an old socket.io version.
+
 
 #### The Standard ROS JavaScript Library
 For full documentation, see [the ROS wiki](http://wiki.ros.org/roslibjs) or check out some [working demos](http://robotwebtools.org/demos.html).
